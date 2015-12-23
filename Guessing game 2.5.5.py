@@ -15,22 +15,6 @@
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #  MA 02110-1301, USA.
 
-#TODO
-#tell each player how they did with a custom message      <>
-#multiple AI
-#adust printlines depending on the lenth of the message
-#tell player how much they lost/won by 					  <>
-#add error catching
-#give the AI multiple names
-#add AI is human muliplayer
-#clean up code
-#make a better winners list
-#give users custom messages on how they doing             <>
-#save highscores for certain numbers
-#could save usernames and give them awards depeding on how they do 
-#import message into printlines to form a box around the message
-#pickle custom mesages and scores
-
 #imports the random mod and time
 import time
 import random
