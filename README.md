@@ -14,4 +14,9 @@ Still working on alot of feautures but have a few bugs to sort out before I can 
 
 I hope this program can help others to learn more about python :) 
 
+If anyone wants to help me add classes please feel free 
+
 ~Cameron Barratt~
+
+
+
